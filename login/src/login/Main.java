@@ -6,6 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		Scanner sc= new Scanner(System.in);
+		System.out.println("로그인을 시작하지");
 		String id,pw,tel;		
 		Check check = new Check();
 		Check del = new Check();
